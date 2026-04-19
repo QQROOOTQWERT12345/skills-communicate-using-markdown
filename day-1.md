@@ -19,7 +19,9 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ```java
 dlsfjljs l
 ```
+![my photo](myrepo/Snipaste_2026-04-18_00-17-51.png)
+![my photo](https://images.unsplash.com/photo-1582639590011-f5a8416d1101?q=80&w=898&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
-
+<img alt="Cloudy morning" src="myrepo/Snipaste_2026-04-18_00-17-51.png" width="100" align="right">
 
 ## Review
